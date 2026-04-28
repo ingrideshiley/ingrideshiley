@@ -38,7 +38,7 @@ Projeto simples, mas muito importante no meu início na programação.
 ---
 
 ## 📫 Contato
-- LinkedIn: (coloca seu link aqui)
+- LinkedIn:https://www.linkedin.com/in/ingrideshiley2526/
 - GitHub: https://github.com/ingrideshiley
 
 ---
