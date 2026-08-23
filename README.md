@@ -28,7 +28,7 @@
 ```yaml
 nome:       Ingrid Eshiley
 localização: Brasil 🇧🇷
-foco:       Front-end Development
+foco:       analista de dados
 aprendendo: [ HTML, CSS ]
 em breve:   JavaScript 🚀
 ama:        café ☕ + código 💻 + gatinhos 🐱
